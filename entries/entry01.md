@@ -1,5 +1,4 @@
 # Entry 1
 
-Text
-
+Picking my topic for a website was tough. I had to pick something that was informative based on technology which threw me off at first since I really wanted to make a vacation planning website. This did not fall under the expectations so I had to change. I am interested in Math and Science and I am currentley taking a college leveled Physics class. After thinking for a bit I settled on Meteorology, the study of the atmosphere which sounded boring at first but ended up being pretty interesting. This 'Atmospheric Study' has to do with the Physics behind weather and the 4 seasons. I am mainly interested in informing people on the the science behind the 4 seasons but weather is also going to slip in at some point. I learned a lot and got hooked on the idea of Meteorology through sites like https://www.nationalgeographic.org/encyclopedia/meteorology/. With this website I learned the basics of Meteorology and what the field does, allowing me to discover my great interest in the topic.
 [Home](../README.md)
