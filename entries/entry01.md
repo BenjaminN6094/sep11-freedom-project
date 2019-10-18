@@ -1,4 +1,10 @@
 # Entry 1
 
 Picking my topic for a website was tough. I had to pick something that was informative based on technology which threw me off at first since I really wanted to make a vacation planning website. This did not fall under the expectations so I had to change. I am interested in Math and Science and I am currentley taking a college leveled Physics class. After thinking for a bit I settled on Meteorology, the study of the atmosphere which sounded boring at first but ended up being pretty interesting. This 'Atmospheric Study' has to do with the Physics behind weather and the 4 seasons. I am mainly interested in informing people on the the science behind the 4 seasons but weather is also going to slip in at some point. I learned a lot and got hooked on the idea of Meteorology through sites like https://www.nationalgeographic.org/encyclopedia/meteorology/. With this website I learned the basics of Meteorology and what the field does, allowing me to discover my great interest in the topic.
+
+I am very pationate for this topic and I have decided to learn more about the oppurtunities one can have with the skills of a Meteorologist. I have learned that Meteorologist mostly focus on weather forecasting or in other words, predicitng weather. For example prediciting when it it going to rain, when it is going to snow, hail etc. I used websites like https://www.indeed.com/q-Meteorology-jobs.html?vjk=e8cc4125ead956bb to get a good idea on what the demand is for this specific profesion. I personally would not see myself as a Meteoroligist in the future but it is interesting to see what job/ work oppurunity's Meteorologist have. This overly helped me further decide to commit to this topic since it allowed me to become more interested on the topic itself.
+
+Overall I am just at the start of my project. I expect to do great research and work in the upcoming months to further my knowledge of Meteorolgy to then eventually present my knowledge through an informative website and allow for others to benefit off of that knowledge as well.
+
+
 [Home](../README.md)
